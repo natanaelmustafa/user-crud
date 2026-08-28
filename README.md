@@ -22,11 +22,3 @@ Recursos
 Tecnologias
 
 HTML • CSS • JavaScript
-
-Contribuições
-
-Pull requests e issues são bem-vindos. Mantenha as mudanças pequenas e objetivas.
-
-Licença
-
-Use conforme sua necessidade. Se desejar, adicione um arquivo LICENSE para especificar a licença.
